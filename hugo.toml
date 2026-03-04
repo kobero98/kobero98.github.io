@@ -1,3 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kobero98.github.io/'
+title = "kobero98"
 languageCode = 'en-us'
-title = 'My New Hugo Project'
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
