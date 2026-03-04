@@ -1,6 +1,7 @@
 baseURL = 'https://kobero98.github.io/'
 title = "kobero98"
 languageCode = 'en-us'
+theme = "ananke"
 [menu]
 
   [[menu.main]]
