@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![La mia foto](/images/foto.jpg)
+![La mia foto](/images/foto.jpeg)
 
 ## Ciao, sono Matteo Federico
 
