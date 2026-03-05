@@ -1,0 +1,48 @@
+/* Layout a due colonne */
+.home-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+/* Colonna sinistra */
+.home-left {
+  flex: 1;
+  max-width: 250px;
+  min-width: 200px;
+}
+
+/* Colonna destra */
+.home-right {
+  flex: 2;
+  min-width: 250px;
+}
+
+/* Immagine profilo */
+.home-left img {
+  width: 200px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* Titoli e paragrafi */
+.home-left h3,
+.home-right h2,
+.home-right h3 {
+  margin-bottom: 10px;
+}
+
+.home-right ul {
+  margin-top: 0;
+  padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+  /* Su mobile le colonne diventano una sopra l’altra */
+  .home-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
