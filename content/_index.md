@@ -2,33 +2,34 @@
 title: "Home"
 ---
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<div style="display:flex; gap:40px; align-items:flex-start;">
 
 <!-- COLONNA SINISTRA -->
-<div style="flex: 1; max-width: 250px;">
+<div style="flex:1; max-width:250px;">
 
-<img src="/images/foto.jpeg" style="width: 200px; border-radius: 10px;">
+<img src="/images/foto.jpeg" style="width:200px; border-radius:10px;">
 
-### Contatti
+<h3>Contatti</h3>
 
-**GitHub:**  
-https://github.com/kobero98  
+<p><b>GitHub:</b><br>
+<a href="https://github.com/kobero98">github.com/kobero98</a></p>
 
-**Email:**  
-matteo.federico@uniroma2.it
-matteo.federico@cnit.it
+<p><b>Email:</b><br>
+matteo.federico[@]uniroma2.it<br>
+matteo.federico[@]cnit.it
+</p>
 
 </div>
 
 <!-- COLONNA DESTRA -->
-<div style="flex: 2;">
+<div style="flex:2;">
 
-## Ciao, sono Matteo Federico
+<h2>Ciao, sono Matteo Federico</h2>
 
-- PhD Student in Computer science Geoinformation and localizaion presso l'università di Roma Tor Vergata.
-- Interessi di ricerca: Sistemi operativi, Programmazione concorrente, Algoritmi di sincronizzazione e lievito.
-
+<ul>
+<li>PhD Student in Computer Science, Geoinformation and Localization presso l’Università di Roma Tor Vergata.</li>
+<li>Interessi di ricerca: Sistemi operativi, programmazione concorrente, algoritmi di sincronizzazione e live migration.</li>
+</ul>
 
 </div>
-
 </div>
