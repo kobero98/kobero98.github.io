@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<table class="teaching-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Lecture Title</th>
+      <th>Information</th>
+      <th>Slides</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {{ range .Params.lectures }}
+    <tr>
+      <td>{{ .date }}</td>
+      <td>{{ .title }}</td>
+      <td>{{ .info }}</td>
+      <td>
+        <a href="{{ .slides }}" target="_blank">Download</a>
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+{{ end }}
