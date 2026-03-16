@@ -6,12 +6,12 @@ layout: "home"   # useremo un layout custom "home"
 # Info per la home
 [profile]
 name = "Matteo Federico"
-bio = "PhD Student in Computer Science, Geoinformation and Localization presso l’Università di Roma Tor Vergata."
-interests = ["Sistemi operativi", "Programmazione concorrente", "Algoritmi di sincronizzazione", "Live migration"]
+bio = "Studente di dottorato in Computer Science, Geoinformation and Localization presso l’Università di Roma Tor Vergata."
+interests = ["Sistemi Operativi", "Programmazione Concorrente", "Algoritmi di Sincronizzazione", ""]
 
 [contact]
 github = "https://github.com/kobero98"
-emails = ["matteo.federico@uniroma2.it", "matteo.federico@cnit.it"]
+emails = ["matteo.federico[@]uniroma2.it", "matteo.federico[@]cnit.it"]
 
 [photo]
-image = "/images/foto.jpeg"
+image = "/images/fotoProfilo.jpeg"
