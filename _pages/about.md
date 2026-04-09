@@ -3,7 +3,6 @@ permalink: /
 title: "General Information"
 author_profile: true
 redirect_from:
-  - /home/
   - /about/
   - /about.html
 ---
