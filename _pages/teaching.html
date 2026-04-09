@@ -5,8 +5,43 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<style>
+/* Teaching page course links */
+.archive a.course-link {
+  color: #3a3a3a !important;        /* standard dark-grey color */
+  text-decoration: underline !important; /* always underlined */
+  font-weight: bold;
+  transition: color 0.2s ease;      /* smooth hover effect */
+}
+
+.archive a.course-link:hover,
+.archive a.course-link:focus {
+  color: #2a7f9e !important;        /* subtle blue on hover/focus */
+  text-decoration: underline !important; /* keep underline on hover */
+  cursor: pointer;                  /* pointer hand on hover */
+}
+</style>
+
+<h2>Teaching Tutor</h2>
+
+{% assign courses_sorted = site.teaching | sort: "start_date" }
+
+{% assign current_year = "" %}
+
+{% for post in courses_sorted %}
+  
+<h3>Academic Year 2025/2026</h3>
+
+  <p style="margin-bottom:12px;">
+    <strong>
+      <a href="{{ post.url | relative_url }}" class="course-link">
+        {{ post.title }}
+      </a>
+    </strong><br>
+    {{ post.type }}, {{ post.venue }}, {{ post.start_date | date: "%Y" }} - {{ post.end_date | date: "%Y" }}
+  </p>
+
 {% endfor %}
