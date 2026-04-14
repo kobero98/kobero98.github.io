@@ -11,9 +11,18 @@ location: "Rome, Italy"
 
 ## Sistemi Operativi – Tutoraggio
 
----
+### 13 Aprile 2026 — Scheduling
+- Visione degli esercizi precedenti ed esercizi su: VRR e MLFQ scheduling
+- [Slide](/files/slides/SO4.pdf)  
+- Codice:
+  - [pseudogrep2\_SB](/files/slides/tutoraggio4/pseudogrep/soluzioneBase.c)
+  - [pseudogrep2\_SQ](/files/slides/tutoraggio4/pseudogrep/soluzioneSQ.c)
+  - [runner\_SB](/files/slides/tutoraggio4/runner/soluzioneBase.c)
+  - [runner\_SQ](/files/slides/tutoraggio4/runner/soluzioneSQ.c)
 
+---
 ### 30 Marzo 2026 — Processi e Thread
+- Esercizio su processi e generazione di processi.
 - [Slide](/files/slides/SO3.pdf)  
 - Codice:
   - [C1\_SB](/files/slides/tutoraggio1/soluzioneChallenge1_BASE.c)
