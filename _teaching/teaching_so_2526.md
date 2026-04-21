@@ -10,7 +10,14 @@ location: "Rome, Italy"
 ---
 
 ## Sistemi Operativi – Tutoraggio
+### 20 Aprile 2025 — Scheduling
+- Risoluzione degli esercizi assegnati la lezione precedente.
+- Risoluzione degli esercizi di scheduling di esami passati.
+- [Slide](/files/slides/SO5.pdf)
+- Codice:
+    - [fruit\_picker](/files/slides/tutoraggio5/soluzioneBase.c)
 
+--- 
 ### 13 Aprile 2026 — Scheduling
 - Visione degli esercizi precedenti ed esercizi su: VRR e MLFQ scheduling
 - [Slide](/files/slides/SO4.pdf)  
