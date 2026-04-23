@@ -10,6 +10,12 @@ location: "Rome, Italy"
 ---
 
 ## Sistemi Operativi – Tutoraggio
+### 27 Aprile 2025 — Annullata
+- Lezione di tutoraggio Anullata a causa assenza del tutor. 
+
+---
+
+## Sistemi Operativi – Tutoraggio
 ### 20 Aprile 2025 — Scheduling
 - Risoluzione degli esercizi assegnati la lezione precedente.
 - Risoluzione degli esercizi di scheduling di esami passati.
