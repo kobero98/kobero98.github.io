@@ -10,13 +10,26 @@ location: "Rome, Italy"
 ---
 
 ## Sistemi Operativi – Tutoraggio
-### 27 Aprile 2025 — Annullata
+### 4 Maggio 2026 — Virtual File System
+- Risoluzione eserci sul Virtual File System
+- [Slide](/files/slides/SO6.pdf)
+- codici:
+    -   [powerNap](/files/slides/tutoraggio6/powernap/soluzioneBase.c), [powerNap_sideQuest](/files/slides/tutoraggio6/powernap/soluzione_sidequest.c) ,[powerNap-WinAPI](/files/slides/tutoraggio6/powernap/soluzioneBase2.c)
+    -   [reverseFile](/files/slides/tutoraggio6/reverse-file/reverse-file-Unix.c)
+    -   [SemiEsame13_6_2022](/files/slides/tutoraggio6/esercizio13_6_22/partial13622.c)
+    -   [Input_Generator](/files/slides/tutoraggio6/fastest/input_gen_1.py)
+- L'Input_Generator server per la challenge lasciata per la prossima volta. Permette di generare dei file per testare la soluzione :).
+
+---
+
+## Sistemi Operativi – Tutoraggio
+### 27 Aprile 2026 — Annullata
 - Lezione di tutoraggio Anullata a causa assenza del tutor. 
 
 ---
 
 ## Sistemi Operativi – Tutoraggio
-### 20 Aprile 2025 — Scheduling
+### 20 Aprile 2026 — Scheduling
 - Risoluzione degli esercizi assegnati la lezione precedente.
 - Risoluzione degli esercizi di scheduling di esami passati.
 - [Slide](/files/slides/SO5.pdf)
