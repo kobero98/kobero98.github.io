@@ -10,15 +10,26 @@ location: "Rome, Italy"
 ---
 
 ## Sistemi Operativi – Tutoraggio
+### 11 Maggio 2026 — Esercizi Pipe
+- Risoluzione eserci su Pipe
+- [Slide](/files/slides/SO7.pdf)
+- codici:
+    -   [matching-in-file (versione1)](/files/slides/tutoraggio7/fastest/vf-1.c), [matching-in-file (versione2)](/files/slides/tutoraggio7/fastest/vf-2.c), [Input\_Generator](/files/slides/tutoraggio7/fastest/input_gen_1.py)
+    -   [lettere nei File](/files/slides/tutoraggio7/lettere/main.c), [Input\_Generator](/files/slides/tutoraggio7/lettere/input_gen_2.py)  [Verificatore](/files/slides/tutoraggio7/lettere/verificatore.py) 
+    -   [Tx/Rx](/files/slides/tutoraggio7/pasquale/main.c)
+    -   [Pipeline](/files/slides/tutoraggio7/pipeline_processamento/main.c),[Input\_Generator](/files/slides/tutoraggio7/pipeline_processamento/input_gen.py)
+
+---
+
 ### 4 Maggio 2026 — Virtual File System
 - Risoluzione eserci sul Virtual File System
 - [Slide](/files/slides/SO6.pdf)
 - codici:
-    -   [powerNap](/files/slides/tutoraggio6/powernap/soluzioneBase.c), [powerNap_sideQuest](/files/slides/tutoraggio6/powernap/soluzione_sidequest.c) ,[powerNap-WinAPI](/files/slides/tutoraggio6/powernap/soluzioneBase2.c)
+    -   [powerNap](/files/slides/tutoraggio6/powernap/soluzioneBase.c), [powerNap\_sideQuest](/files/slides/tutoraggio6/powernap/soluzione_sidequest.c) ,[powerNap-WinAPI](/files/slides/tutoraggio6/powernap/soluzioneBase2.c)
     -   [reverseFile](/files/slides/tutoraggio6/reverse-file/reverse-file-Unix.c)
-    -   [SemiEsame13_6_2022](/files/slides/tutoraggio6/esercizio13_6_22/partial13622.c)
-    -   [Input_Generator](/files/slides/tutoraggio6/fastest/input_gen_1.py)
-- L'Input_Generator server per la challenge lasciata per la prossima volta. Permette di generare dei file per testare la soluzione :).
+    -   [SemiEsame13\_6\_2022](/files/slides/tutoraggio6/esercizio13_6_22/partial13622.c)
+    -   [Input\_Generator](/files/slides/tutoraggio6/fastest/input_gen_1.py)
+- L'Input\_Generator server per la challenge lasciata per la prossima volta. Permette di generare dei file per testare la soluzione :).
 
 ---
 
